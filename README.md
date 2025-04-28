@@ -1,1 +1,18 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/1vd2HnL1)
+## Shell
+
+This is a simple shell made as a project during Operating Systems course at the university.
+
+The template was delivered by the professor, only lines between `#ifdef STUDENT and #endif` were coded by me from scratch.
+
+## Manual
+make - compiling
+
+make format - formatting all .c files
+
+make test - launching tests delivered by the professor
+
+./shell - launching the code itself
+
+## Disclaimer
+Format rules are very strict, modyfing the structure of the code may not be a good idea :)
+
